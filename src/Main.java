@@ -12,6 +12,7 @@ public class Main {
 //        Класс Menu отвечает за меню.
 //        Класс Delivery отвечает за доставку.
 //        Класс Cart отвечает за управление корзиной.
+//        Класс ProductRating отвечает за рейтинг товаров.
 //        Класс ProductService отвечает за управление продуктами.
 
 //        Open/Closed Principle (OCP):
